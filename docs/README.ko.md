@@ -426,6 +426,8 @@ pycubrid 초기 개발 당시, CUBRID의 공식 Node.js 드라이버인 [node-cu
 
 [CUBRID/cubrid-python](https://github.com/CUBRID/cubrid-python)의 메인테이너와 기여자분들께도 감사드립니다. 이 프로젝트의 `tests3` 스위트는 #409, #410, #433에서 추가한 INDEX, PARTITION, VIEW, TRIGGER, 컬렉션, ENUM, LOB 왕복 회귀 시나리오의 참고 자료였습니다. 시나리오는 pycubrid의 API와 문서화된 차이에 맞게 적용했으며, CUBRIDdb API 전체의 동등성을 주장하지 않습니다. 참고한 파일은 [NOTICE](../NOTICE), 출처와 라이선스 확인의 한계는 [서드파티 문서](../THIRD_PARTY_LICENSES.md#reference-test-suite)를 확인하세요.
 
+이 프로젝트는 CUBRID 개발자 도구를 위한 독립적인 오픈 소스 이니셔티브인 [CUBRID Lab](https://github.com/cubrid-lab)의 일부입니다.
+
 ## 라이선스
 
 MIT — [LICENSE](../LICENSE) 참조.

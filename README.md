@@ -426,9 +426,7 @@ During pycubrid's initial development, the official CUBRID Node.js driver — [n
 
 We also thank the maintainers and contributors of [CUBRID/cubrid-python](https://github.com/CUBRID/cubrid-python). Its `tests3` suite informed the SQL-feature and type/data regression scenarios added in #409, #410 and #433: INDEX, PARTITION, VIEW, TRIGGER, collections, ENUM and LOB round-trips. These scenarios were adapted to pycubrid's APIs and documented differences, not a claim of full CUBRIDdb API parity. See [NOTICE](NOTICE) for the source files and [third-party notes](THIRD_PARTY_LICENSES.md#reference-test-suite) for provenance and licensing limits.
 
-## Disclaimer
-
-> This project is part of [CUBRID Lab](https://github.com/cubrid-lab), an independent open-source initiative for CUBRID developer tooling, and is not affiliated with, sponsored by, or endorsed by CUBRID Corporation or the official CUBRID project.
+This project is part of [CUBRID Lab](https://github.com/cubrid-lab), an independent open source initiative for CUBRID developer tooling.
 
 ## License
 
