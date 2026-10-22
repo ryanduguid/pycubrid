@@ -11,14 +11,14 @@
 [🇰🇷 한국어](docs/README.ko.md) · [🇺🇸 English](README.md) · [🇨🇳 中文](docs/README.zh.md) · [🇮🇳 हिन्दी](docs/README.hi.md) · [🇩🇪 Deutsch](docs/README.de.md) · [🇷🇺 Русский](docs/README.ru.md)
 
 <!-- BADGES:START -->
-[![PyPI version](https://img.shields.io/pypi/v/pycubrid)](https://pypi.org/project/pycubrid)
-[![python version](https://img.shields.io/pypi/pyversions/pycubrid)](https://www.python.org)
-[![ci workflow](https://github.com/cubrid-lab/pycubrid/actions/workflows/ci.yml/badge.svg)](https://github.com/cubrid-lab/pycubrid/actions/workflows/ci.yml)
-[![integration-full workflow](https://github.com/cubrid-lab/pycubrid/actions/workflows/integration-full.yml/badge.svg)](https://github.com/cubrid-lab/pycubrid/actions/workflows/integration-full.yml)
-[![coverage](https://codecov.io/gh/cubrid-lab/pycubrid/branch/main/graph/badge.svg)](https://codecov.io/gh/cubrid-lab/pycubrid)
-[![license](https://img.shields.io/github/license/cubrid-lab/pycubrid)](https://github.com/cubrid-lab/pycubrid/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/cubrid-lab/pycubrid)](https://github.com/cubrid-lab/pycubrid)
-[![docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue)](https://cubrid-lab.github.io/pycubrid/)
+[![PyPI version](https://img.shields.io/pypi/v/pycubrid?style=flat&labelColor=000000&color=66023C)](https://pypi.org/project/pycubrid)
+[![python version](https://img.shields.io/pypi/pyversions/pycubrid?style=flat&labelColor=000000&color=66023C)](https://www.python.org)
+[![ci workflow](https://img.shields.io/github/actions/workflow/status/cubrid-lab/pycubrid/ci.yml?label=CI&style=flat&labelColor=000000)](https://github.com/cubrid-lab/pycubrid/actions/workflows/ci.yml)
+[![integration-full workflow](https://img.shields.io/github/actions/workflow/status/cubrid-lab/pycubrid/integration-full.yml?label=Integration%20Full%20Matrix&style=flat&labelColor=000000)](https://github.com/cubrid-lab/pycubrid/actions/workflows/integration-full.yml)
+[![coverage](https://img.shields.io/codecov/c/github/cubrid-lab/pycubrid/main?style=flat&labelColor=000000)](https://codecov.io/gh/cubrid-lab/pycubrid)
+[![license](https://img.shields.io/github/license/cubrid-lab/pycubrid?style=flat&labelColor=000000&color=66023C)](https://github.com/cubrid-lab/pycubrid/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/cubrid-lab/pycubrid?style=flat&labelColor=000000&color=66023C)](https://github.com/cubrid-lab/pycubrid)
+[![docs](https://img.shields.io/badge/docs-GitHub%20Pages-blue?style=flat&labelColor=000000&color=66023C)](https://cubrid-lab.github.io/pycubrid/)
 <!-- BADGES:END -->
 
 ---
